@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: rx-api-search-handler
+Plugin Name: Enqueues Script Handler
 Plugin URI:  
 Description: Enqueues scripts needed for a specific page: Austin Kellum
 Version: 1.0
