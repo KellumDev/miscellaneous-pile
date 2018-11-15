@@ -1,0 +1,1 @@
+# Enqueue scripts written in PHP a Wordpres plugin. This plug in allows developers to target specific pages via Slug to implement a script. The ideas of this plug-in is to preserve loadtimes. Why load a script if its not needed? 
